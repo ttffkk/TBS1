@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T22:26:00.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sPtsCFIzOmkMNvshmDEg" version="22.1.21" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-18T22:38:48.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oXclgzcAnC_miWnCH5eV" version="22.1.21" type="github" pages="2">
   <diagram name="Ist Zustand" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="3204" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -743,10 +743,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CquQCbfjrfDiV9IoBOeK" name="Soll Zustand">
-    <mxGraphModel dx="3839" dy="2329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8754" dy="4939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TuP2GgP_LDN5nQB3OOhP-404" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="551" width="1280" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="TuP2GgP_LDN5nQB3OOhP-403" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1041.25" y="51" width="1271.25" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="TuP2GgP_LDN5nQB3OOhP-402" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2962" y="2261" width="618" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="TuP2GgP_LDN5nQB3OOhP-401" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="5192" y="2151" width="308" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="TuP2GgP_LDN5nQB3OOhP-400" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="4430.5" y="2263.62" width="1069.5" height="346.38" as="geometry" />
+        </mxCell>
         <mxCell id="TuP2GgP_LDN5nQB3OOhP-399" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1041" y="1441" width="1271" height="299" as="geometry" />
         </mxCell>

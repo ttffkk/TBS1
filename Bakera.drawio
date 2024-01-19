@@ -1,13 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T12:40:22.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MYP_eKZWnY7COgK3R0k5" version="22.1.21" type="github">
-  <diagram name="Seite-1" id="g7BH7MqPetd16F_8IENU">
-    <mxGraphModel dx="1004" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ID">
+    <mxGraphModel dx="870" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageScaleToFit="1" pageFormat="A4" pageVisible="0" pageBreaks="1" keepPageBreaks="1" pageBreaksVisible="1" pageBreakColor="#000000" pageScaleVisible="1" scale="1" maxScale="1.5" minScale="0.5" zoomFactor="1.2" autoSize="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xivqnsbKktnMOrbFEDhC-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
-          <mxGeometry x="139.9999999999999" y="160" width="29.7" height="21" as="geometry" />
+        <mxCell id="5nqz79aQINzcs3JeVYQT-1" value="" style="group" vertex="1" connectable="0" connectEdges="0" collapsible="1" styleOverride="0" vertexLabels="1">
+          <mxGeometry x="50" y="20" width="600" height="400" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
+        <mxCell id="5nqz79aQINzcs3JeVYQT-4" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" parent="5nqz79aQINzcs3JeVYQT-1" vertexLabels="1">
+          <mxGeometry x="70" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nqz79aQINzcs3JeVYQT-7" value="End" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" parent="5nqz79aQINzcs3JeVYQT-1" vertexLabels="1">
+          <mxGeometry x="560" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5nqz79aQINzcs3JeVYQT-9" value="&lt;b&gt;Buchung eines Fahrzeuges&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" parent="5nqz79aQINzcs3JeVYQT-1" vertexLabels="1">
+          <mxGeometry x="190" y="70" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5nqz79aQINzcs3JeVYQT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;exitPerimeterSpacing=0;exitSpacing=0;" edge="1" connectable="0" parent="5nqz79aQINzcs3JeVYQT-1" source="5nqz79aQINzcs3JeVYQT-4" target="5nqz79aQINzcs3JeVYQT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5nqz79aQINzcs3JeVYQT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;exitPerimeterSpacing=0;exitSpacing=0;" edge="1" connectable="0" parent="5nqz79aQINzcs3JeVYQT-1" source="5nqz79aQINzcs3JeVYQT-9" target="5nqz79aQINzcs3JeVYQT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </mxGraphModel>
+    </mxfile>
   </diagram>
 </mxfile>

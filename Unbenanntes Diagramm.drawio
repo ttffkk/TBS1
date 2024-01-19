@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T15:48:28.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ay5sgARTmm7W1kCqtJLo" version="22.1.21" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-19T15:54:21.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZCggOPt-LRrtVeCMIjzG" version="22.1.21" type="github" pages="3">
   <diagram name="Ist Zustand" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="6933" dy="3363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -857,7 +857,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CquQCbfjrfDiV9IoBOeK" name="Soll Zustand">
-    <mxGraphModel dx="11121" dy="6196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3839" dy="2329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2956,17 +2956,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="peOeBnuG_WFOR6fACpyF-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline-24-px/24/Internet_outlet_internet_plug_internet_socket_lan_port_telephone_plug-128.png" parent="1" vertex="1">
-          <mxGeometry x="-1016" y="950" width="12" height="12" as="geometry" />
-        </mxCell>
-        <mxCell id="peOeBnuG_WFOR6fACpyF-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline-24-px/24/Internet_outlet_internet_plug_internet_socket_lan_port_telephone_plug-128.png" parent="1" vertex="1">
-          <mxGeometry x="-799.5" y="1178" width="12" height="12" as="geometry" />
-        </mxCell>
         <mxCell id="peOeBnuG_WFOR6fACpyF-26" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" parent="1" vertex="1">
           <mxGeometry x="-854.85" y="1029" width="29.7" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="peOeBnuG_WFOR6fACpyF-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline-24-px/24/Internet_outlet_internet_plug_internet_socket_lan_port_telephone_plug-128.png" parent="1" vertex="1">
-          <mxGeometry x="-615" y="961" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="peOeBnuG_WFOR6fACpyF-28" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3649,6 +3640,47 @@
         </mxCell>
         <mxCell id="7HeV7FwyRSzgXywg6wdm-1" value="Soll Zustand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="1590" y="-145" width="620" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qMXNV8vQdBUzDZ64m84J" name="Seite-3">
+    <mxGraphModel dx="-926" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="awtu3RpTB1YKUw3EG_Q3-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=7;strokeColor=#99FF99;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2030" y="-590" as="sourcePoint" />
+            <mxPoint x="1660" y="-590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1830" y="-590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="awtu3RpTB1YKUw3EG_Q3-2" value="Primär Verkabelung (Glasfaser)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="-600" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jIjChY3mOuGIx2KOrlqp-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;strokeColor=#FF1414;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2030" y="-527" as="sourcePoint" />
+            <mxPoint x="1670" y="-530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2012" y="-527" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIjChY3mOuGIx2KOrlqp-2" value="Sekundär Verkabelung (Glasfaser)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="-540" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jIjChY3mOuGIx2KOrlqp-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="-470" as="sourcePoint" />
+            <mxPoint x="2030" y="-470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIjChY3mOuGIx2KOrlqp-4" value="Tertiäre Verkabelung (Kupfer)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="-480" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

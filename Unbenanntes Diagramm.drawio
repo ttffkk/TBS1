@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T12:11:11.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FS5Yrx62ak91fnuYLdWe" version="22.1.21" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-19T12:42:32.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="L5IO67ZLW_iUGgPKM7s3" version="22.1.21" type="github" pages="2">
   <diagram name="Ist Zustand" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="3204" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -774,10 +774,10 @@
         <mxCell id="TuP2GgP_LDN5nQB3OOhP-396" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="5200" y="35" width="310" height="615" as="geometry" />
         </mxCell>
-        <mxCell id="T7VO75DaC_ke6mJVObYn-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=5;strokeColor=#FF1414;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T7VO75DaC_ke6mJVObYn-10" target="T7VO75DaC_ke6mJVObYn-24">
+        <mxCell id="T7VO75DaC_ke6mJVObYn-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=5;strokeColor=#FF1414;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T7VO75DaC_ke6mJVObYn-24" target="T7VO75DaC_ke6mJVObYn-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3630" y="133" as="sourcePoint" />
-            <mxPoint x="3625" y="153" as="targetPoint" />
+            <mxPoint x="3625" y="153" as="sourcePoint" />
+            <mxPoint x="3630" y="133" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TuP2GgP_LDN5nQB3OOhP-393" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
